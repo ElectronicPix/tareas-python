@@ -18,4 +18,9 @@ class Coche(): #definimos la clase
 #Instanciamos un objeto de la clase coche
 miCoche = Coche('Mazda')
 print(miCoche.marca)
+
+# Modificamos el atributo marca fuera de la clase
+miCoche.marca = 'Toyota'
+print(miCoche.marca)
+
 miCoche.acelerar()
