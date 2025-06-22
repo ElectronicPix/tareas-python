@@ -1,3 +1,6 @@
+#Rubén De La Puente
+#rubendlpc@gmail.com
+#Tarea 1 - Ej 2
 '''
 Ejercicio 2: Trabajar con Atributos y Métodos
 1. Define una clase llamada Coche.
