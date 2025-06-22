@@ -1,3 +1,6 @@
+#Rubén De La Puente
+#rubendlpc@gmail.com
+#Tarea 1 - Ej 1
 '''
 Ejercicio 1: Definir una Clase 
 1. Define una clase llamada Animal.
