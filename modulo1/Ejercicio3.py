@@ -1,3 +1,6 @@
+#Rubén De La Puente
+#rubendlpc@gmail.com
+#Tarea 1 - Ej 3
 '''
 Ejercicio 3: Crear una Clase con Múltiples Métodos
 1. Define una clase llamada Calculadora.
