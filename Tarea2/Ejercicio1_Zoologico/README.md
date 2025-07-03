@@ -1,14 +1,15 @@
-#📁 1. Estructura del Proyecto
+# 📁 1. Estructura del Proyecto
 zoologico/
 ├── animal.py       # Clase base abstracta Animal
 ├── perro.py        # Clase derivada Perro
 ├── gato.py         # Clase derivada Gato
 └── main.py         # Programa principal (punto de entrada)
 
-🐍 2. Requisitos
+# 🐍 2. Requisitos
+
 Python 3
 
-💻 3. Instrucciones para Ejecutar
+# 💻 3. Instrucciones para Ejecutar
 Abre una terminal o consola y navega a la carpeta zoologico:
 ```bash
 cd zoologico
