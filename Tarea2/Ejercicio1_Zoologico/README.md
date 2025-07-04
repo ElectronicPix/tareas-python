@@ -3,7 +3,7 @@
 ├── animal.py       # Clase base abstracta Animal
 ├── perro.py        # Clase derivada Perro
 ├── gato.py         # Clase derivada Gato
-└── main.py         # Programa principal (punto de entrada)<pre></code>
+└── main.py         # Programa principal (punto de entrada)</code></pre>
 
 # 🐍 2. Requisitos
 
