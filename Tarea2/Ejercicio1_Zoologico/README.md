@@ -1,9 +1,9 @@
 # 📁 1. Estructura del Proyecto
-zoologico/
+<pre><code>zoologico/
 ├── animal.py       # Clase base abstracta Animal
 ├── perro.py        # Clase derivada Perro
 ├── gato.py         # Clase derivada Gato
-└── main.py         # Programa principal (punto de entrada)
+└── main.py         # Programa principal (punto de entrada)<pre></code>
 
 # 🐍 2. Requisitos
 
