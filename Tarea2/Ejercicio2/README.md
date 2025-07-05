@@ -28,6 +28,8 @@ formas_geometricas/
 ```bash
 python main.py
 
+```
+
 # 📌 Resultado Esperado
 Se mostrará por consola el área y el perímetro de cada forma, demostrando el uso de polimorfismo al invocar métodos concretos de subclases a través de referencias del tipo Forma.
 
