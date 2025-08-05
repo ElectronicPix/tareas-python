@@ -1,0 +1,5 @@
+git config --global user.name "ElectronicPix"
+git config --global user.email "rubendlpc@gmail.com"
+
+https://github.com/JuanDavidTriana/Python_0_a_Senior.git
+https://github.com/01Mauricio/Clase-5.git

@@ -1,0 +1,60 @@
+Programación Orientada a Objeto
+
+* Programación procedimental o estructurada 80 - 90tas
+manipulan datos globales, no se usa clase.
+
+-Utiliza objetos (Datos en forma(atributos y propiedades))
+codigo - metodos
+-Piezas reutilizables y modulares, promueve la reutilización 
+del código, facilita la gentión
+
+"python multiparadigma"
+
+estructura el código orientado al mundo reutilizables
+
+clase una plantilla - atribustos y metodos
+
+objetos - isntancia de un clase, es una variable
+
+atributos - caractaristicas o datos asociados a un Objeto, son variables
+
+isntancia - objeto creado a partir de una clase
+
+metodo son funciones, acciones que realiz la clase
+
+
+tecla windows + . = emojis
+
+repo: https://github.com/juanpageekgt/poo-beca-2025-estudiante/blob/main/tarea-1.md
+https://github.com/juanpageekgt/poo-beca-2025-estudiante/blob/main/tarea-1.md
+correo: tareas@juanpageek.com
+
+
+video : https://www.youtube.com/watch?v=HzWhXKvVmn8
+github: https://www.youtube.com/watch?v=p8CC-kVGPuc
+
+editor kali linux sudo apt install obsidian
+
+
+# Nombre
+# correo
+# Tare1
+
+control /name Microsoft.CredentialManager para github
+
+
+
+
+https://github.com/juanpageekgt/poo-beca-2025-estudiante/blob/main/tarea-1.md
+
+https://github.com/copilot
+
+https://github.com/ZLCube/extrabspwm
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+
+https://linktr.ee/zlcube
+
+
+https://github.com/ZLCube/extrabspwm
